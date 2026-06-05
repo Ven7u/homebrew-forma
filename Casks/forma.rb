@@ -1,6 +1,6 @@
 cask "forma" do
-  version "0.1.0"
-  sha256 "f0fb0ef45d7bbf0f819e84fa7f8fcfb0d21442ac15ad75ef79596d304b38fb0b"
+  version "0.1.1"
+  sha256 "31b97ca1a91c3263f9b9ebb7a295568e9744577ebb838f0d71a86c2c7791ec78"
 
   url "https://github.com/Ven7u/forma-synth/releases/download/v#{version}/Forma-v#{version}-macos-universal.dmg"
   name "Forma"
