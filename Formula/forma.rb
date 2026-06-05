@@ -6,7 +6,7 @@ class Forma < Formula
   license "GPL-3.0-only"
 
   def install
-    bin.install buildpath/"Forma.app/Contents/MacOS/forma"
+    bin.install "Contents/MacOS/forma"
   end
 
   test do
