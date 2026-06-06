@@ -1,8 +1,8 @@
 class Forma < Formula
   desc "Polyphonic software synthesizer for macOS"
   homepage "https://ven7u.github.io/forma-synth/"
-  url "https://github.com/Ven7u/forma-synth/releases/download/v0.1.2/Forma-v0.1.2-macos-universal.zip"
-  sha256 "7842d318f94518df96fab667305699d4c77f3c600892a5bbbbee2da28720c8e8"
+  url "https://github.com/Ven7u/forma-synth/releases/download/v0.1.3/Forma-v0.1.3-macos-universal.zip"
+  sha256 "1be08a7f4a7a5db40044176d5f4cd8c4f4105c31b2d0fa6cc742a31485c8dbc8"
   license "GPL-3.0-only"
 
   def install
